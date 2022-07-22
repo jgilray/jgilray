@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jgilray
-- 👀 I’m interested in programming in Rust, Mathematica and Racket
+- 👀 I’m interested in programming and mathematics
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on projects that utilize Rust
 - 📫 How to reach me: jgilray@gmail.com
